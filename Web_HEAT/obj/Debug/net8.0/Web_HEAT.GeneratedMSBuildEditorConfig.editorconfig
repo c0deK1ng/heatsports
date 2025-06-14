@@ -24,6 +24,14 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Healz/source/repos/heatsports/Web_HEAT/Components/Pages/About.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBYm91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Healz/source/repos/heatsports/Web_HEAT/Components/Pages/Contact Us.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb250YWN0IFVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Healz/source/repos/heatsports/Web_HEAT/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -34,6 +42,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Healz/source/repos/heatsports/Web_HEAT/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Healz/source/repos/heatsports/Web_HEAT/Components/Pages/Philosophy.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQaGlsb3NvcGh5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Healz/source/repos/heatsports/Web_HEAT/Components/Pages/Promotion.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9tb3Rpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Healz/source/repos/heatsports/Web_HEAT/Components/Pages/Rentals.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSZW50YWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Healz/source/repos/heatsports/Web_HEAT/Components/Pages/Schedule.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTY2hlZHVsZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Healz/source/repos/heatsports/Web_HEAT/Components/Pages/Services.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTZXJ2aWNlcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Healz/source/repos/heatsports/Web_HEAT/Components/Pages/Weather.razor]

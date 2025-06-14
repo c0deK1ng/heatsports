@@ -3,7 +3,7 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
-      "Route": "Web_HEAT.2k6opszde6.styles.css",
+      "Route": "Web_HEAT.1ofd38qub3.styles.css",
       "AssetFile": "Web_HEAT.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -17,7 +17,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5898"
+          "Value": "6049"
         },
         {
           "Name": "Content-Type",
@@ -25,21 +25,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zq8FmIzx1nr9RQE+NegvF3b8H+k8WiRRdm+0uXhSyPc=\""
+          "Value": "\"kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 17:43:32 GMT"
+          "Value": "Sat, 14 Jun 2025 01:51:31 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2k6opszde6"
+          "Value": "1ofd38qub3"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zq8FmIzx1nr9RQE+NegvF3b8H+k8WiRRdm+0uXhSyPc="
+          "Value": "sha256-kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8="
         },
         {
           "Name": "label",
@@ -62,7 +62,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5898"
+          "Value": "6049"
         },
         {
           "Name": "Content-Type",
@@ -70,17 +70,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zq8FmIzx1nr9RQE+NegvF3b8H+k8WiRRdm+0uXhSyPc=\""
+          "Value": "\"kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 17:43:32 GMT"
+          "Value": "Sat, 14 Jun 2025 01:51:31 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zq8FmIzx1nr9RQE+NegvF3b8H+k8WiRRdm+0uXhSyPc="
+          "Value": "sha256-kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8="
         }
       ]
     },

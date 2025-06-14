@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pX89p6XO+2AefuY32N9tig/POtsYy2yxnh9b5HfCZog=",
+  "Hash": "OPlEY6X2a9qRjfRR0QEA4v4YAHpYG53e7CJDKmU0+f4=",
   "Source": "Web_HEAT",
   "BasePath": "_content/Web_HEAT",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Web_HEAT\\wwwroot",
       "Source": "Web_HEAT",
-      "ContentRoot": "C:\\Users\\Healz\\source\\repos\\Web_HEAT\\Web_HEAT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\wwwroot\\",
       "BasePath": "_content/Web_HEAT",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Healz\\source\\repos\\Web_HEAT\\Web_HEAT\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Web_HEAT.styles.css",
+      "Identity": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Web_HEAT.styles.css",
       "SourceId": "Web_HEAT",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Healz\\source\\repos\\Web_HEAT\\Web_HEAT\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Web_HEAT",
       "RelativePath": "Web_HEAT#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -31,17 +31,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "2k6opszde6",
-      "Integrity": "zq8FmIzx1nr9RQE+NegvF3b8H+k8WiRRdm+0uXhSyPc=",
+      "Fingerprint": "1ofd38qub3",
+      "Integrity": "kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Healz\\source\\repos\\Web_HEAT\\Web_HEAT\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Web_HEAT.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Web_HEAT.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Healz\\source\\repos\\Web_HEAT\\Web_HEAT\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web_HEAT.bundle.scp.css",
+      "Identity": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web_HEAT.bundle.scp.css",
       "SourceId": "Web_HEAT",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Healz\\source\\repos\\Web_HEAT\\Web_HEAT\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Web_HEAT",
       "RelativePath": "Web_HEAT#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -52,17 +52,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "2k6opszde6",
-      "Integrity": "zq8FmIzx1nr9RQE+NegvF3b8H+k8WiRRdm+0uXhSyPc=",
+      "Fingerprint": "1ofd38qub3",
+      "Integrity": "kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Healz\\source\\repos\\Web_HEAT\\Web_HEAT\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web_HEAT.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web_HEAT.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Healz\\source\\repos\\Web_HEAT\\Web_HEAT\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\wwwroot\\app.css",
       "SourceId": "Web_HEAT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Healz\\source\\repos\\Web_HEAT\\Web_HEAT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\wwwroot\\",
       "BasePath": "_content/Web_HEAT",
       "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Healz\\source\\repos\\Web_HEAT\\Web_HEAT\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "Web_HEAT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Healz\\source\\repos\\Web_HEAT\\Web_HEAT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\wwwroot\\",
       "BasePath": "_content/Web_HEAT",
       "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Healz\\source\\repos\\Web_HEAT\\Web_HEAT\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Web_HEAT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Healz\\source\\repos\\Web_HEAT\\Web_HEAT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\wwwroot\\",
       "BasePath": "_content/Web_HEAT",
       "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Healz\\source\\repos\\Web_HEAT\\Web_HEAT\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\wwwroot\\favicon.png",
       "SourceId": "Web_HEAT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Healz\\source\\repos\\Web_HEAT\\Web_HEAT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\wwwroot\\",
       "BasePath": "_content/Web_HEAT",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -146,7 +146,7 @@
   "Endpoints": [
     {
       "Route": "app.css",
-      "AssetFile": "C:\\Users\\Healz\\source\\repos\\Web_HEAT\\Web_HEAT\\wwwroot\\app.css",
+      "AssetFile": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -183,7 +183,7 @@
     },
     {
       "Route": "app.da95v2qkru.css",
-      "AssetFile": "C:\\Users\\Healz\\source\\repos\\Web_HEAT\\Web_HEAT\\wwwroot\\app.css",
+      "AssetFile": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -228,7 +228,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\Healz\\source\\repos\\Web_HEAT\\Web_HEAT\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -273,7 +273,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\Healz\\source\\repos\\Web_HEAT\\Web_HEAT\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -310,7 +310,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\Healz\\source\\repos\\Web_HEAT\\Web_HEAT\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -355,7 +355,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\Healz\\source\\repos\\Web_HEAT\\Web_HEAT\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -392,7 +392,7 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "C:\\Users\\Healz\\source\\repos\\Web_HEAT\\Web_HEAT\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -437,7 +437,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "C:\\Users\\Healz\\source\\repos\\Web_HEAT\\Web_HEAT\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -473,8 +473,8 @@
       ]
     },
     {
-      "Route": "Web_HEAT.2k6opszde6.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Healz\\source\\repos\\Web_HEAT\\Web_HEAT\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web_HEAT.bundle.scp.css",
+      "Route": "Web_HEAT.1ofd38qub3.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web_HEAT.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -483,7 +483,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5898"
+          "Value": "6049"
         },
         {
           "Name": "Content-Type",
@@ -491,11 +491,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zq8FmIzx1nr9RQE+NegvF3b8H+k8WiRRdm+0uXhSyPc=\""
+          "Value": "\"kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 17:43:32 GMT"
+          "Value": "Sat, 14 Jun 2025 01:51:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -505,7 +505,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2k6opszde6"
+          "Value": "1ofd38qub3"
         },
         {
           "Name": "label",
@@ -513,13 +513,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zq8FmIzx1nr9RQE+NegvF3b8H+k8WiRRdm+0uXhSyPc="
+          "Value": "sha256-kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8="
         }
       ]
     },
     {
-      "Route": "Web_HEAT.2k6opszde6.styles.css",
-      "AssetFile": "C:\\Users\\Healz\\source\\repos\\Web_HEAT\\Web_HEAT\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Web_HEAT.styles.css",
+      "Route": "Web_HEAT.1ofd38qub3.styles.css",
+      "AssetFile": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Web_HEAT.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -528,7 +528,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5898"
+          "Value": "6049"
         },
         {
           "Name": "Content-Type",
@@ -536,11 +536,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zq8FmIzx1nr9RQE+NegvF3b8H+k8WiRRdm+0uXhSyPc=\""
+          "Value": "\"kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 17:43:32 GMT"
+          "Value": "Sat, 14 Jun 2025 01:51:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -550,7 +550,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2k6opszde6"
+          "Value": "1ofd38qub3"
         },
         {
           "Name": "label",
@@ -558,13 +558,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zq8FmIzx1nr9RQE+NegvF3b8H+k8WiRRdm+0uXhSyPc="
+          "Value": "sha256-kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8="
         }
       ]
     },
     {
       "Route": "Web_HEAT.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Healz\\source\\repos\\Web_HEAT\\Web_HEAT\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web_HEAT.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web_HEAT.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -573,7 +573,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5898"
+          "Value": "6049"
         },
         {
           "Name": "Content-Type",
@@ -581,11 +581,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zq8FmIzx1nr9RQE+NegvF3b8H+k8WiRRdm+0uXhSyPc=\""
+          "Value": "\"kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 17:43:32 GMT"
+          "Value": "Sat, 14 Jun 2025 01:51:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -595,13 +595,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zq8FmIzx1nr9RQE+NegvF3b8H+k8WiRRdm+0uXhSyPc="
+          "Value": "sha256-kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8="
         }
       ]
     },
     {
       "Route": "Web_HEAT.styles.css",
-      "AssetFile": "C:\\Users\\Healz\\source\\repos\\Web_HEAT\\Web_HEAT\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Web_HEAT.styles.css",
+      "AssetFile": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Web_HEAT.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -610,7 +610,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5898"
+          "Value": "6049"
         },
         {
           "Name": "Content-Type",
@@ -618,11 +618,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zq8FmIzx1nr9RQE+NegvF3b8H+k8WiRRdm+0uXhSyPc=\""
+          "Value": "\"kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 17:43:32 GMT"
+          "Value": "Sat, 14 Jun 2025 01:51:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -632,7 +632,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zq8FmIzx1nr9RQE+NegvF3b8H+k8WiRRdm+0uXhSyPc="
+          "Value": "sha256-kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8="
         }
       ]
     }
