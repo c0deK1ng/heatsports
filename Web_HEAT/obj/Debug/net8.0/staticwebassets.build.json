@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OPlEY6X2a9qRjfRR0QEA4v4YAHpYG53e7CJDKmU0+f4=",
+  "Hash": "sRrdb6gE8Ig05h7uFXJItX6GQd9LToldwmW/tObbiV8=",
   "Source": "Web_HEAT",
   "BasePath": "_content/Web_HEAT",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "1ofd38qub3",
-      "Integrity": "kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8=",
+      "Fingerprint": "2atej0g5c9",
+      "Integrity": "RkHW3v0LDdmhrfqOfH52JqRy14UBMWVaqIrPi6Zu4Nk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Web_HEAT.styles.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "1ofd38qub3",
-      "Integrity": "kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8=",
+      "Fingerprint": "2atej0g5c9",
+      "Integrity": "RkHW3v0LDdmhrfqOfH52JqRy14UBMWVaqIrPi6Zu4Nk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web_HEAT.bundle.scp.css"
@@ -473,7 +473,7 @@
       ]
     },
     {
-      "Route": "Web_HEAT.1ofd38qub3.bundle.scp.css",
+      "Route": "Web_HEAT.2atej0g5c9.bundle.scp.css",
       "AssetFile": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web_HEAT.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -483,7 +483,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6049"
+          "Value": "1480"
         },
         {
           "Name": "Content-Type",
@@ -491,11 +491,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8=\""
+          "Value": "\"RkHW3v0LDdmhrfqOfH52JqRy14UBMWVaqIrPi6Zu4Nk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 01:51:31 GMT"
+          "Value": "Tue, 17 Jun 2025 23:49:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -505,7 +505,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1ofd38qub3"
+          "Value": "2atej0g5c9"
         },
         {
           "Name": "label",
@@ -513,12 +513,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8="
+          "Value": "sha256-RkHW3v0LDdmhrfqOfH52JqRy14UBMWVaqIrPi6Zu4Nk="
         }
       ]
     },
     {
-      "Route": "Web_HEAT.1ofd38qub3.styles.css",
+      "Route": "Web_HEAT.2atej0g5c9.styles.css",
       "AssetFile": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Web_HEAT.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -528,7 +528,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6049"
+          "Value": "1480"
         },
         {
           "Name": "Content-Type",
@@ -536,11 +536,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8=\""
+          "Value": "\"RkHW3v0LDdmhrfqOfH52JqRy14UBMWVaqIrPi6Zu4Nk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 01:51:31 GMT"
+          "Value": "Tue, 17 Jun 2025 23:49:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -550,7 +550,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1ofd38qub3"
+          "Value": "2atej0g5c9"
         },
         {
           "Name": "label",
@@ -558,7 +558,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8="
+          "Value": "sha256-RkHW3v0LDdmhrfqOfH52JqRy14UBMWVaqIrPi6Zu4Nk="
         }
       ]
     },
@@ -573,7 +573,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6049"
+          "Value": "1480"
         },
         {
           "Name": "Content-Type",
@@ -581,11 +581,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8=\""
+          "Value": "\"RkHW3v0LDdmhrfqOfH52JqRy14UBMWVaqIrPi6Zu4Nk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 01:51:31 GMT"
+          "Value": "Tue, 17 Jun 2025 23:49:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -595,7 +595,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8="
+          "Value": "sha256-RkHW3v0LDdmhrfqOfH52JqRy14UBMWVaqIrPi6Zu4Nk="
         }
       ]
     },
@@ -610,7 +610,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6049"
+          "Value": "1480"
         },
         {
           "Name": "Content-Type",
@@ -618,11 +618,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8=\""
+          "Value": "\"RkHW3v0LDdmhrfqOfH52JqRy14UBMWVaqIrPi6Zu4Nk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 01:51:31 GMT"
+          "Value": "Tue, 17 Jun 2025 23:49:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -632,7 +632,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8="
+          "Value": "sha256-RkHW3v0LDdmhrfqOfH52JqRy14UBMWVaqIrPi6Zu4Nk="
         }
       ]
     }

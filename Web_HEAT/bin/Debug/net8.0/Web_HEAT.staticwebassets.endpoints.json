@@ -3,7 +3,7 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
-      "Route": "Web_HEAT.1ofd38qub3.styles.css",
+      "Route": "Web_HEAT.2atej0g5c9.styles.css",
       "AssetFile": "Web_HEAT.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -17,7 +17,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6049"
+          "Value": "1480"
         },
         {
           "Name": "Content-Type",
@@ -25,21 +25,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8=\""
+          "Value": "\"RkHW3v0LDdmhrfqOfH52JqRy14UBMWVaqIrPi6Zu4Nk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 01:51:31 GMT"
+          "Value": "Tue, 17 Jun 2025 23:49:17 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1ofd38qub3"
+          "Value": "2atej0g5c9"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8="
+          "Value": "sha256-RkHW3v0LDdmhrfqOfH52JqRy14UBMWVaqIrPi6Zu4Nk="
         },
         {
           "Name": "label",
@@ -62,7 +62,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6049"
+          "Value": "1480"
         },
         {
           "Name": "Content-Type",
@@ -70,17 +70,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8=\""
+          "Value": "\"RkHW3v0LDdmhrfqOfH52JqRy14UBMWVaqIrPi6Zu4Nk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 01:51:31 GMT"
+          "Value": "Tue, 17 Jun 2025 23:49:17 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kbPVXRidqEZWFZPUPxrRA1wREbeHHAEajvA27ydD/T8="
+          "Value": "sha256-RkHW3v0LDdmhrfqOfH52JqRy14UBMWVaqIrPi6Zu4Nk="
         }
       ]
     },

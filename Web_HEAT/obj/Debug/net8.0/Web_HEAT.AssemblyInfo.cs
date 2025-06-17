@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Web_HEAT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+119ad2ed8ad84e4b6b1cacf5e4a74fb1c92a1cda")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb957bf493aff39c84fc57201492c8ff7b40ff24")]
 [assembly: System.Reflection.AssemblyProductAttribute("Web_HEAT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Web_HEAT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
