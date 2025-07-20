@@ -2,3 +2,7 @@ wwwroot\app.css
 wwwroot\bootstrap\bootstrap.min.css
 wwwroot\bootstrap\bootstrap.min.css.map
 wwwroot\favicon.png
+wwwroot\Videos\jaime.mp4
+wwwroot\Videos\paul.mp4
+wwwroot\Videos\spring.mp4
+wwwroot\Videos\spring1080boomerang.mp4

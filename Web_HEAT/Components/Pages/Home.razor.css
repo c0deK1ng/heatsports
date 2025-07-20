@@ -1,0 +1,37 @@
+﻿.signup-btn {
+    position: absolute;
+    right: -27rem;
+    top: 12rem;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 0.5rem;
+    padding: 1rem 2rem;
+    font-size: 2.0rem;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    transition: background 0.2s;
+}
+
+    .signup-btn:hover {
+        background-color: darkred;
+    }
+
+.signup-btn:hover {
+    background-color: darkred;
+}
+
+.background-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    width: 100%;
+    height: auto;
+}
+
+.background-image-container > *:not(.background-video) {
+    position: relative;
+    z-index: 1;
+}

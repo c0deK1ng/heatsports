@@ -1,3 +1,4 @@
+/* _content/Web_HEAT/Components/Layout/Layout.razor.rz.scp.css */
 /* _content/Web_HEAT/Components/Layout/MainLayout.razor.rz.scp.css */
 .page[b-mpdmhcfr00] {
     position: relative;
@@ -62,3 +63,41 @@ main[b-mpdmhcfr00] {
         background-color: rgba(255, 0, 0, 1);
         color: #d7d7d7;
     }
+/* _content/Web_HEAT/Components/Pages/Home.razor.rz.scp.css */
+.signup-btn[b-3ead6yg8jq] {
+    position: absolute;
+    right: -27rem;
+    top: 12rem;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 0.5rem;
+    padding: 1rem 2rem;
+    font-size: 2.0rem;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    transition: background 0.2s;
+}
+
+    .signup-btn:hover[b-3ead6yg8jq] {
+        background-color: darkred;
+    }
+
+.signup-btn:hover[b-3ead6yg8jq] {
+    background-color: darkred;
+}
+
+.background-video[b-3ead6yg8jq] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    width: 100%;
+    height: auto;
+}
+
+.background-image-container > *:not(.background-video)[b-3ead6yg8jq] {
+    position: relative;
+    z-index: 1;
+}
