@@ -1,0 +1,83 @@
+﻿.contact-bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: url('/Pics/overhead.jpg') no-repeat center center fixed;
+    background-size: cover;
+    z-index: 0;
+}
+
+.contact-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0,0,0,0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+}
+
+.contact-form {
+    background: rgba(255,255,255,0.95);
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.2);
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    min-width: 320px;
+    max-width: 400px;
+}
+
+    .contact-form input,
+    .contact-form textarea {
+        background: #fff;
+        border: 1px solid #ccc;
+        border-radius: 6px;
+        padding: 0.75rem;
+        font-size: 1rem;
+        width: 100%;
+        resize: none;
+    }
+
+    .contact-form textarea {
+        min-height: 100px;
+    }
+
+    .contact-form button {
+        background: #e53935;
+        color: #fff;
+        border: none;
+        border-radius: 6px;
+        padding: 0.75rem;
+        font-size: 1.1rem;
+        cursor: pointer;
+        transition: background 0.2s;
+    }
+
+        .contact-form button:disabled {
+            background: #aaa;
+            cursor: not-allowed;
+        }
+
+.popup-message {
+    position: fixed;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, 0);
+    background: #fff;
+    color: #222;
+    padding: 1.25rem 2.5rem;
+    border-radius: 10px;
+    box-shadow: 0 6px 32px rgba(0,0,0,0.25);
+    font-size: 1.25rem;
+    font-weight: 500;
+    z-index: 9999;
+    text-align: center;
+    opacity: 0.97;
+}

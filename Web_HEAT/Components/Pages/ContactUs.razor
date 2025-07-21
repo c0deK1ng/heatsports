@@ -1,0 +1,60 @@
+﻿@page "/contact"
+@using System.Net.Mail
+@inject NavigationManager Navigation
+
+<div class="contact-bg">
+    <div class="contact-overlay">
+        <div style="text-align:center; margin-bottom: 2.5rem; padding-right: 2rem;">
+            <h2 style="color:white; text-shadow: 0 2px 8px rgba(0,0,0,0.7); margin:0;">
+                Contact Us for Information:
+            </h2>
+        </div>
+        <form class="contact-form" @onsubmit="OnSubmit">
+            <input type="text" placeholder="First and Last Name" @bind="Name" required disabled="@Sent" />
+            <input type="email" placeholder="Email" @bind="Email" required disabled="@Sent" />
+            <input type="tel" placeholder="Phone#" @bind="Phone" required disabled="@Sent" />
+            <textarea placeholder="Your Message" @bind="Message" disabled="@Sent"></textarea>
+            <button type="submit" disabled="@Sent">@ButtonText</button>
+        </form>
+        @if (ShowPopup)
+        {
+            <div class="popup-message">
+                Message Sent! We will get back to you soon! 🦾
+            </div>
+        }
+    </div>
+</div>
+
+@code {
+    private string Name { get; set; }
+    private string Email { get; set; }
+    private string Phone { get; set; }
+    private string Message { get; set; }
+    private bool Sent { get; set; } = false;
+    private string ButtonText { get; set; } = "Send Message";
+    private bool ShowPopup { get; set; } = false;
+
+    private async Task OnSubmit()
+    {
+        await SendEmail();
+    }
+
+    private async Task SendEmail()
+    {
+        // NOTE: Blazor WebAssembly cannot send emails directly.
+        // In a real app, call a backend API to send the email.
+        // For demonstration, simulate sending and update UI.
+
+        // TODO: Replace with actual email sending logic via backend API
+        // Example: await Http.PostAsJsonAsync("api/contact", ...);
+
+        if (true != Sent)
+        {
+            Sent = true;
+            ShowPopup = true;
+            ButtonText = "Message Sent!";
+            StateHasChanged();
+            
+        }
+    }
+}

@@ -2,7 +2,11 @@
   "Files": [
     {
       "Id": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web_HEAT.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Web_HEAT.8l82ulqw99.bundle.scp.css"
+      "PackagePath": "staticwebassets\\Web_HEAT.a6slsaogzy.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\wwwroot\\Pics\\overhead.jpg",
+      "PackagePath": "staticwebassets\\Pics\\overhead.jpg"
     },
     {
       "Id": "C:\\Users\\Healz\\source\\repos\\heatsports\\Web_HEAT\\wwwroot\\Videos\\jaime.mp4",

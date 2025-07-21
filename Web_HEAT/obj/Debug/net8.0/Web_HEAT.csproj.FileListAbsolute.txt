@@ -67,3 +67,4 @@ C:\Users\Healz\source\repos\heatsports\Web_HEAT\obj\Debug\net8.0\Web_HEAT.genrun
 C:\Users\Healz\source\repos\heatsports\Web_HEAT\obj\Debug\net8.0\ref\Web_HEAT.dll
 C:\Users\Healz\source\repos\heatsports\Web_HEAT\obj\Debug\net8.0\scopedcss\Components\Layout\Layout.razor.rz.scp.css
 C:\Users\Healz\source\repos\heatsports\Web_HEAT\obj\Debug\net8.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
+C:\Users\Healz\source\repos\heatsports\Web_HEAT\obj\Debug\net8.0\scopedcss\Components\Pages\ContactUs.razor.rz.scp.css

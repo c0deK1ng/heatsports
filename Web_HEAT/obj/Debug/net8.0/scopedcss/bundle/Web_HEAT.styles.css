@@ -63,6 +63,90 @@ main[b-mpdmhcfr00] {
         background-color: rgba(255, 0, 0, 1);
         color: #d7d7d7;
     }
+/* _content/Web_HEAT/Components/Pages/ContactUs.razor.rz.scp.css */
+.contact-bg[b-xcnyfi9u7s] {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: url('/Pics/overhead.jpg') no-repeat center center fixed;
+    background-size: cover;
+    z-index: 0;
+}
+
+.contact-overlay[b-xcnyfi9u7s] {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0,0,0,0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+}
+
+.contact-form[b-xcnyfi9u7s] {
+    background: rgba(255,255,255,0.95);
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.2);
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    min-width: 320px;
+    max-width: 400px;
+}
+
+    .contact-form input[b-xcnyfi9u7s],
+    .contact-form textarea[b-xcnyfi9u7s] {
+        background: #fff;
+        border: 1px solid #ccc;
+        border-radius: 6px;
+        padding: 0.75rem;
+        font-size: 1rem;
+        width: 100%;
+        resize: none;
+    }
+
+    .contact-form textarea[b-xcnyfi9u7s] {
+        min-height: 100px;
+    }
+
+    .contact-form button[b-xcnyfi9u7s] {
+        background: #e53935;
+        color: #fff;
+        border: none;
+        border-radius: 6px;
+        padding: 0.75rem;
+        font-size: 1.1rem;
+        cursor: pointer;
+        transition: background 0.2s;
+    }
+
+        .contact-form button:disabled[b-xcnyfi9u7s] {
+            background: #aaa;
+            cursor: not-allowed;
+        }
+
+.popup-message[b-xcnyfi9u7s] {
+    position: fixed;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, 0);
+    background: #fff;
+    color: #222;
+    padding: 1.25rem 2.5rem;
+    border-radius: 10px;
+    box-shadow: 0 6px 32px rgba(0,0,0,0.25);
+    font-size: 1.25rem;
+    font-weight: 500;
+    z-index: 9999;
+    text-align: center;
+    opacity: 0.97;
+}
 /* _content/Web_HEAT/Components/Pages/Home.razor.rz.scp.css */
 .signup-btn[b-3ead6yg8jq] {
     position: absolute;
@@ -84,17 +168,23 @@ main[b-mpdmhcfr00] {
         background-color: darkred;
     }
 
-.signup-btn:hover[b-3ead6yg8jq] {
-    background-color: darkred;
-}
+    .signup-btn:hover[b-3ead6yg8jq] {
+        background-color: darkred;
+    }
 
 .background-video[b-3ead6yg8jq] {
     position: absolute;
     top: 0;
     left: 0;
     z-index: 0;
-    width: 100%;
-    height: auto;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    min-width: 100%;
+    min-height: 100%;
+    max-width: 100vw;
+    max-height: 100vh;
+    overflow: hidden;
 }
 
 .background-image-container > *:not(.background-video)[b-3ead6yg8jq] {
